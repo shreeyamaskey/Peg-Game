@@ -1,0 +1,1 @@
+A lab for Algorithms where we design and implement a backtracking algorithm to solve a modified Triangle Peg Board Game. The game board is a triangle with 15 holes. The game starts with pegs (golf tees) in all the holes except one; the goal is to jump pegs one at a time, removing the jumped peg until only one peg remains.
